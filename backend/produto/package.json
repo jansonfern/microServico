@@ -1,0 +1,16 @@
+{
+    "name": "produto",
+    "version": "1.0.0",
+    "description": "Microserviço de Produtos",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.18.1",
+      "mongoose": "^6.9.1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
